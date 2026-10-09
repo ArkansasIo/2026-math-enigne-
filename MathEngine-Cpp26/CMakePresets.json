@@ -1,0 +1,15 @@
+{
+  "version": 6,
+  "configurePresets": [
+    {
+      "name": "default",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug",
+        "MATHENGINE_BUILD_TESTS": "ON",
+        "MATHENGINE_BUILD_EXAMPLES": "ON"
+      }
+    }
+  ]
+}

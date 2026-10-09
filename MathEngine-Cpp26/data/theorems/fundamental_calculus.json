@@ -1,0 +1,6 @@
+{
+  "id": "theorems.ftc1",
+  "name": "Fundamental Theorem of Calculus",
+  "statement": "If F'(x)=f(x), then integral from a to b of f(x) dx = F(b)-F(a).",
+  "domain": "f is continuous on [a,b]"
+}

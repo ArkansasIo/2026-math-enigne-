@@ -1,0 +1,14 @@
+{
+  "id": "axioms.basic_arithmetic",
+  "category": "axiom",
+  "items": [
+    {
+      "name": "Additive identity",
+      "statement": "a + 0 = a"
+    },
+    {
+      "name": "Multiplicative identity",
+      "statement": "a * 1 = a"
+    }
+  ]
+}

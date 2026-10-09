@@ -1,0 +1,11 @@
+{
+  "id": "equations.linear_integral",
+  "category": "calculus",
+  "equation": "Integral((a*x+b),x) = (a/2)*x^2 + b*x + C",
+  "variables": [
+    "a",
+    "b",
+    "x",
+    "C"
+  ]
+}

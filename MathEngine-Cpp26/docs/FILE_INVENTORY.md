@@ -1,0 +1,31 @@
+# File Inventory
+
+- `CHANGELOG.md`
+- `CMakeLists.txt`
+- `CMakePresets.json`
+- `CONTRIBUTING.md`
+- `README.md`
+- `SECURITY.md`
+- `data/axioms/basic_arithmetic.json`
+- `data/equations/linear_integral.json`
+- `data/identities/power_rule.json`
+- `data/terms/integral.json`
+- `data/theorems/fundamental_calculus.json`
+- `docs/ALGORITHMS.md`
+- `docs/API.md`
+- `docs/ARCHITECTURE.md`
+- `docs/MATHEMATICAL_KNOWLEDGE.md`
+- `docs/NUMERIC_TYPES.md`
+- `docs/PHASES.md`
+- `include/MathEngine/Algebra.hpp`
+- `include/MathEngine/Calculus.hpp`
+- `include/MathEngine/Knowledge.hpp`
+- `include/MathEngine/Numerics.hpp`
+- `schemas/equation.schema.json`
+- `schemas/theorem.schema.json`
+- `src/Algebra.cpp`
+- `src/Calculus.cpp`
+- `src/Knowledge.cpp`
+- `src/Numerics.cpp`
+- `src/main.cpp`
+- `tests/test_mathengine.cpp`

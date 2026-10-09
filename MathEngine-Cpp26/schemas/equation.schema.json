@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EquationRecord",
+  "type": "object",
+  "required": [
+    "id",
+    "equation"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "equation": {
+      "type": "string"
+    },
+    "variables": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

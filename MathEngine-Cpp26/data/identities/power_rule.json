@@ -1,0 +1,5 @@
+{
+  "id": "identities.power_rule",
+  "identity": "Integral(x^n,x) = x^(n+1)/(n+1) + C",
+  "condition": "n != -1"
+}
